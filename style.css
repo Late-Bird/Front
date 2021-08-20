@@ -561,4 +561,8 @@ p {
     width: 80px;
     height: 80px;
   }
+
+  .arrow-up {
+    width: 11%;
+  }
 }
