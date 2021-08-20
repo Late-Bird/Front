@@ -613,11 +613,12 @@ p {
   }
 
   .arrow-up {
-    width: 50px;
-    height: 50px;
+    width: 10%;
+    height: 6%;
     font-size: 30px;
     line-height: 50px;
     right: 16px;
     bottom: 16px;
-  }
+    color: seagreen;
+
 }
