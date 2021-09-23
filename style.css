@@ -186,6 +186,11 @@ p {
 }
 
 /* About  */
+
+#about {
+  padding-top: 65px;
+}
+
 .about__major {
   display: flex;
   justify-content: space-between;
@@ -415,6 +420,7 @@ p {
 #testimonials {
   background-color: var(--color-light-white);
   align-items: center;
+  padding-top: 63px;
 }
 
 .testimonials {
