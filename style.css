@@ -249,6 +249,7 @@ p {
 
 #skills {
   background-color: var(--color-yellow);
+  padding-top: 70px;
 }
 
 .skillset__title {
